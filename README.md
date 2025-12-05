@@ -59,7 +59,7 @@ Typical pin usage in the example code:
 
 ## Code Overview
 
-Main source file: `fire_smoke_fan_alarm.c` (original name: `test.c`, placed under the `code/` folder).
+Main source file: `fire_smoke_fan_alarm.c`
 
 Key points:
 
